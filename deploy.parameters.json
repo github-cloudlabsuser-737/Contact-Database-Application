@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "webAppName": {
-      "value": "CRUD application 2"
+        "value": "github-cloudlabsuser-737"
     },
     "webAppLocation": {
       "value": "<Your-Web-App-Location>"
